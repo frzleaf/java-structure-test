@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "in.leth.test"
+    },
+    "jhipsterVersion": "6.5.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "in.leth.test",
+    "packageFolder": "in/leth/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWNlMjI2MTRkMWE0MzJkZDFmYTVlNTkyNTA1NjlhOGQ0NzM0ODY3NmY0ZGM4NGU2NWZhM2Y0Y2IyNGNiNjdkNzg2NjMyOTc0N2M0OTk1ZDAyYmM1N2YyNWIzYWNhOTI0ZWI4NDFhNTIyNGY3MWEyMWFiMWNhZjQ5ZTBjYWE4NTA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
